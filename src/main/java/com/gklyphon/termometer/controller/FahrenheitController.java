@@ -14,7 +14,7 @@ import java.math.BigDecimal;
  * <p>This controller offers two conversion methods:
  * <ul>
  * <li>Fahrenheit to Celsius</li>
- * <li>Kelvin to Celsius</li>
+ * <li>Fahrenheit to Kelvin</li>
  * </ul>
  * <p>Conversions are performed using decimal values (BigDecimal).
  *
