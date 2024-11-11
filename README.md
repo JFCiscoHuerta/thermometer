@@ -15,7 +15,7 @@ Each conversion utilizes high-precision decimal values for accuracy. Endpoints a
 
 ## Prerequisites
 Ensure you have the following installed:
-- *Java 22*
+- *Java 21*
 - *Maven 3.x*
 
 ## Endpoints:
