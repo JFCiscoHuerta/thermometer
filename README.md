@@ -33,4 +33,4 @@ Celsius to Fahrenheit:  ```/celsius-to/fahrenheit?degrees=400.0 ```
 
 ## License
 
-This project is licensed under the  Apache 2.0 license - see the LICENSE file for detail
+This project is licensed under the  Apache 2.0 license - see the LICENSE file for details.
